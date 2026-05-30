@@ -3,3 +3,7 @@ Github : https://github.com/roto17/project_final
 Streamlit : https://r4nexbartzhvvbyameuttx.streamlit.app/
 
 Render : https://loan-app-w65l.onrender.com
+
+Github_Streamlit Repo : https://github.com/roto17/loans
+
+Github_Render Repo : https://github.com/roto17/loan_app
